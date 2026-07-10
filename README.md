@@ -1,1 +1,1 @@
-# Pet-Simulator-
+This is a mini project 
